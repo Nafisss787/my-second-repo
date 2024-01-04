@@ -6,7 +6,7 @@
 
 }
 .ws{
-    color: chartreuse;
+    color: rgb(61, 80, 42);
     background-color: rgb(115, 118, 118);
 }
 img{
@@ -16,5 +16,7 @@ img{
     
 }
 .rtr{
-    background-color: aqua;
+    background-color: rgb(19, 26, 26);
+    font-family: fantasy;
+    color: black;
 }
