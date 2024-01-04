@@ -1,0 +1,20 @@
+.stylesheet{
+    background-color: rgb(83, 30, 30);
+    padding: 20px;
+    width: fit-content;
+    background-position: center;
+
+}
+.ws{
+    color: chartreuse;
+    background-color: rgb(115, 118, 118);
+}
+img{
+    border: 7px red;
+    border-style: groove tomato;
+    width: 100px;
+    
+}
+.rtr{
+    background-color: aqua;
+}
